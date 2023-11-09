@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Conflicting changes from main
+=======
+
+Changes from new-branch
+>>>>>>> new-branch
